@@ -10,5 +10,9 @@
   "license": "MIT",
   "dependencies": {
     "swagger-client": "^2.1.32"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:trive-digital/magento2-javascript-sdk.git"
+  },
 }
