@@ -1,0 +1,14 @@
+{
+  "name": "trive-magento2-javascript-sdk",
+  "version": "1.0.0",
+  "description": "Magento 2 Javascript Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Trive Digital",
+  "license": "MIT",
+  "dependencies": {
+    "swagger-client": "^2.1.32"
+  }
+}
